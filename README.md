@@ -8,7 +8,7 @@
 - Run composer install command to install the packages
 - Run npm install to install the frontend
 - Run npm run dev to render the frontend
-- Run php artisan to serve the application
+- Run php artisan serve to serve the application
 
 * The admin account is:
 username: admin@admin.com
